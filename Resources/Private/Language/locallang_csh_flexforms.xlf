@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" datatype="plaintext" original="messages" date="2015-10-27T05:57:30Z" product-name="google_charts">
+        <header/>
+        <body>
+            <trans-unit id="settings.sheet.description" xml:space="preserve">
+                <source>Hier soll die ID des Spreadsheets eingegeben werden. Nur notwendig, wenn kein Datensatz ausgewählt wird.</source>
+            </trans-unit>
+            <trans-unit id="settings.addoptions.description" xml:space="preserve">
+                <source>Hier können zusätzliche Optionen für den Google Chart eingegeben werden. Dabei müssen sie folgendes Format haben: [{"key": "value","key": {"key": "value"}}]</source>
+            </trans-unit>
+            <trans-unit id="settings.haxis.description" xml:space="preserve">
+                <source>Wird nur bei den Charttypen 'Graph' und 'Column' ausgegeben</source>
+            </trans-unit>
+            <trans-unit id="settings.vaxis.description" xml:space="preserve">
+                <source>Wird nur bei den Charttypen 'Graph' und 'Column' ausgegeben</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
